@@ -1,6 +1,6 @@
-package com.ctfo.ribao.test.cglib;
+package com.zhangshuai.designMode.proxy.cglib;
 
-import com.ctfo.ribao.test.JdkProxy.Product;
+import com.zhangshuai.designMode.proxy.JdkProxy.Product;
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;
 import org.springframework.cglib.proxy.MethodProxy;
@@ -34,5 +34,6 @@ public class CglibProxy {
             }
         });
         System.out.println(proxyProduct.sell(1000f));
+
     }
 }

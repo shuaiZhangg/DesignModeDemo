@@ -1,4 +1,4 @@
-package com.ctfo.ribao.test.JdkProxy;
+package com.zhangshuai.designMode.proxy.JdkProxy;
 
 public interface IProduct {
     String sell(Float money);

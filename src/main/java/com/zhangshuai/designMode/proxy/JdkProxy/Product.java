@@ -1,4 +1,6 @@
-package com.ctfo.ribao.test.JdkProxy;
+package com.zhangshuai.designMode.proxy.JdkProxy;
+
+import com.zhangshuai.designMode.proxy.JdkProxy.IProduct;
 
 public class Product implements IProduct {
     @Override

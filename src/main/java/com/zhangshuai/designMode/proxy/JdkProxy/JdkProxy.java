@@ -1,4 +1,4 @@
-package com.ctfo.ribao.test.JdkProxy;
+package com.zhangshuai.designMode.proxy.JdkProxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
 public class JdkProxy {
     public static void main(String[] args) {
         // 创建一个被代理对象
-        final Product product = new Product();
+        final IProduct product = new Product();
 
         /**
          * ClassLoader loader获取被代理类的类加载器。
