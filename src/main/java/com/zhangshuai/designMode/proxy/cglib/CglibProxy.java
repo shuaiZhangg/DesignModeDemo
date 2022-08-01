@@ -33,7 +33,7 @@ public class CglibProxy {
                 return returnValue;
             }
         });
-        System.out.println(proxyProduct.sell(1000f));
+        proxyProduct.sell(1000f);
 
     }
 }
