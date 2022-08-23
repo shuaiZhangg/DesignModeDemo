@@ -1,10 +1,4 @@
-package com.ctfo.ribao.test.shejimoshi;
-
-/**
- *
- * @param null
- * @return 11
- */
+package com.zhangshuai.designMode.factory;
 
 interface Product  {
     void method();
