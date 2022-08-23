@@ -1,5 +1,10 @@
 package com.ctfo.ribao.test.shejimoshi;
 
+/**
+ *
+ * @param null
+ * @return 11
+ */
 
 interface Product  {
     void method();
