@@ -1,4 +1,4 @@
-package com.ctfo.ribao.test.Jianzaozhe;
+package com.zhangshuai.designMode.builder;
 
 /**
  * "Abstract Builder"

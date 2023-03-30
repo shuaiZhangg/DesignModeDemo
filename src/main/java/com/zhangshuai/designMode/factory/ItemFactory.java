@@ -1,4 +1,4 @@
-package com.ctfo.ribao.test.shejimoshi;
+package com.zhangshuai.designMode.factory;
 
 /**
  * 简单工厂模式就是工厂类提供一个方法，根据传入参数的不同，返回具体的实现类。

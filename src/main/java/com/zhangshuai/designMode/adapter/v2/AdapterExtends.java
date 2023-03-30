@@ -3,7 +3,7 @@ package com.zhangshuai.designMode.adapter.v2;
 /**
  * @Author: Shuai Zhang
  * @CreateTime: 2022/08/01
- * @Description: TODO
+ * @Description: 适配器方式二
  * @Version: 1.0
  */
 public class AdapterExtends {

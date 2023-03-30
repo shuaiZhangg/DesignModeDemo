@@ -1,4 +1,4 @@
-package com.ctfo.ribao.test.Jianzaozhe;
+package com.zhangshuai.designMode.builder;
 
 /** A customer ordering a pizza. */
 public class BuilderExample {
