@@ -36,7 +36,7 @@ class Adapter implements Target{
     public int output5V() {
         int i = source.output220V();
 
-        //...........
+        //............
 
         System.out.println(String.format("输入电压 %d v  ->  输出电压 %d v ",i,5));
         return 5;
