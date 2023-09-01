@@ -17,7 +17,7 @@ public class AdapterObject{
 
 class Source {
     public int output220V(){
-        return 220;
+        return 210;
     }
 }
 interface Target {
